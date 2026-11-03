@@ -1,0 +1,1 @@
+simpletalk(obj_silentDialogue, WEIRD);

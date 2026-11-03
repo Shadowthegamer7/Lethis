@@ -1,0 +1,1 @@
+bigtalk(2, obj_madGuyDialogue, spr_madGuyDialogue);

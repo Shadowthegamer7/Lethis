@@ -1,0 +1,15 @@
+    Sistema de Dialogo:
+
+Tem que fazer de um jeito que seja possível adicionar mais depois.
+
+**Teoria**
+
+* Fazer com que cada boneco/objeto que contenha dialogo faça com que uma variável que controla o dialogo
+mudar para um número específico que controla qual atualmente está sendo mostrado.
+
+* Ex: Um boneco coloca o número da variável como 2, já um outro personagem importante coloca o número pra valor cinco.
+
+
+* Talvez fazer uma funcão ao redor disso.
+
+* Evitar fazer um monde de *use cases* pra o dialogo. tipo "if convo=1 then talkdialogue=1" fazer mais algo tipo "sprite index = convoNumber"

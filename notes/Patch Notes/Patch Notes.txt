@@ -1,0 +1,7 @@
+A partir de agora eu vou começar a documentar aqui as 
+mudanças que eu tenho feito.
+
+
+    V1.4.3
+	
+- codigo simplificado pro ralsei, e funções pro dialogo.
