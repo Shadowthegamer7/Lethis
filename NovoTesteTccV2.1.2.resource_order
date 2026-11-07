@@ -71,6 +71,7 @@
     {"name":"snd_button","order":2,"path":"sounds/snd_button/snd_button.yy",},
     {"name":"snd_menuSwitch","order":3,"path":"sounds/snd_menuSwitch/snd_menuSwitch.yy",},
     {"name":"snd_talk","order":1,"path":"sounds/snd_talk/snd_talk.yy",},
+    {"name":"bg_titlescreen","order":31,"path":"sprites/bg_titlescreen/bg_titlescreen.yy",},
     {"name":"spr_banana","order":11,"path":"sprites/spr_banana/spr_banana.yy",},
     {"name":"spr_betterwall","order":6,"path":"sprites/spr_betterwall/spr_betterwall.yy",},
     {"name":"spr_braveGuy","order":24,"path":"sprites/spr_braveGuy/spr_braveGuy.yy",},

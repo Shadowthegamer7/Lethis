@@ -99,6 +99,7 @@
     {"id":{"name":"snd_menuSwitch","path":"sounds/snd_menuSwitch/snd_menuSwitch.yy",},},
     {"id":{"name":"snd_next","path":"sounds/snd_next/snd_next.yy",},},
     {"id":{"name":"snd_talk","path":"sounds/snd_talk/snd_talk.yy",},},
+    {"id":{"name":"bg_titlescreen","path":"sprites/bg_titlescreen/bg_titlescreen.yy",},},
     {"id":{"name":"spr_banana","path":"sprites/spr_banana/spr_banana.yy",},},
     {"id":{"name":"spr_betterwall","path":"sprites/spr_betterwall/spr_betterwall.yy",},},
     {"id":{"name":"spr_braveGuy","path":"sprites/spr_braveGuy/spr_braveGuy.yy",},},
