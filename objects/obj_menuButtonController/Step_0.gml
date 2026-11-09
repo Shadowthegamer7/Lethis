@@ -29,7 +29,7 @@ if (gotonextroom == 1) && !audio_is_playing(snd_button)
 
 if (audio_sound_get_gain(mus_title) < 0.01)
 		{
-			room_goto(rm_central_town)	
+			room_goto(rm_intro_cutscene)	
 		};
 
 

@@ -6,8 +6,8 @@
   "name":"obj_silentDialogue",
   "overriddenProperties":[],
   "parent":{
-    "name":"Dialogue",
-    "path":"folders/Objects/Dialogue.yy",
+    "name":"GameDialogue",
+    "path":"folders/Objects/Dialogue/GameDialogue.yy",
   },
   "parentObjectId":{
     "name":"obj_dialogue",

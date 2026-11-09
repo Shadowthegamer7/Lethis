@@ -1,4 +1,4 @@
-if image_alpha < 0.01 && (!room == rm_titlescreen) {
+if image_alpha < 0.01 && room != rm_titlescreen {
 	instance_destroy()	
 }
 if room == rm_titlescreen {
