@@ -86,6 +86,7 @@
     {"name":"spr_dummy","order":14,"path":"sprites/spr_dummy/spr_dummy.yy",},
     {"name":"spr_fade","order":27,"path":"sprites/spr_fade/spr_fade.yy",},
     {"name":"spr_helpMenu","order":20,"path":"sprites/spr_helpMenu/spr_helpMenu.yy",},
+    {"name":"spr_introCutsceneDialogue","order":5,"path":"sprites/spr_introCutsceneDialogue/spr_introCutsceneDialogue.yy",},
     {"name":"spr_madGuy","order":17,"path":"sprites/spr_madGuy/spr_madGuy.yy",},
     {"name":"spr_madGuyDialogue","order":1,"path":"sprites/spr_madGuyDialogue/spr_madGuyDialogue.yy",},
     {"name":"spr_menuButton","order":28,"path":"sprites/spr_menuButton/spr_menuButton.yy",},

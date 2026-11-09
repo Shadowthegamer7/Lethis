@@ -1,9 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_introDialogue",
-  "eventList":[],
+  "%Name":"obj_introCutsceneDialogue",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_introDialogue",
+  "name":"obj_introCutsceneDialogue",
   "overriddenProperties":[],
   "parent":{
     "name":"IntroDialogue",
@@ -27,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_introCutsceneDialogue",
+    "path":"sprites/spr_introCutsceneDialogue/spr_introCutsceneDialogue.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
