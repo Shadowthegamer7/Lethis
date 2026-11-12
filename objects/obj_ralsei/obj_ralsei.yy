@@ -34,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_ral_idle_down",
-    "path":"sprites/spr_ral_idle_down/spr_ral_idle_down.yy",
+    "name":"spr_ral_walk_down",
+    "path":"sprites/spr_ral_walk_down/spr_ral_walk_down.yy",
   },
   "spriteMaskId":null,
   "visible":true,

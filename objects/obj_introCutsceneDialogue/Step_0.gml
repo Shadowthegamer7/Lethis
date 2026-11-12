@@ -7,4 +7,4 @@ if image_alpha = 1
 }
 
 if _dissapear == true {image_alpha -= _fadeRate}
-if image_alpha <= 0 {instance_destroy();}
+if image_alpha <= 0 {time_source_start(obj_introCutsceneController._moveToLibrary) ;instance_destroy();}

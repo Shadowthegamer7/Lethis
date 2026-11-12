@@ -1,5 +1,8 @@
-x = 140;
-y = 120;
+spawnpointx = obj_spawnpoint.x
+spawnpointy = obj_spawnpoint.y
+
+x = spawnpointx;
+y = spawnpointy;
 
 xspd = 0;
 yspd = 0;

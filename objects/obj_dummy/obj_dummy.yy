@@ -9,8 +9,8 @@
   "name":"obj_dummy",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Props",
+    "path":"folders/Objects/Props.yy",
   },
   "parentObjectId":{
     "name":"obj_npc",
