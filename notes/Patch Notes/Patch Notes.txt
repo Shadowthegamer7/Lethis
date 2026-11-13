@@ -4,4 +4,4 @@ mudanças que eu tenho feito.
 
     V1.4.3
 	
-- codigo simplificado pro ralsei, e funções pro dialogo.
+- codigo simplificado pro hel, e funções pro dialogo.

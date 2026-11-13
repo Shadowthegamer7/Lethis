@@ -6,10 +6,13 @@
   "name":"obj_libraryCart",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Props",
+    "path":"folders/Objects/Props.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_interactableProp",
+    "path":"objects/obj_interactableProp/obj_interactableProp.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

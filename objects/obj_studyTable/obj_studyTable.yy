@@ -10,8 +10,8 @@
     "path":"folders/Objects/Props.yy",
   },
   "parentObjectId":{
-    "name":"obj_wall",
-    "path":"objects/obj_wall/obj_wall.yy",
+    "name":"obj_interactableProp",
+    "path":"objects/obj_interactableProp/obj_interactableProp.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
