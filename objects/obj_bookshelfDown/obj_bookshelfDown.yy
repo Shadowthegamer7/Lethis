@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
   "%Name":"obj_bookshelfDown",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_bookshelfDown",
   "overriddenProperties":[],
   "parent":{
-    "name":"Props",
-    "path":"folders/Objects/Props.yy",
+    "name":"Library",
+    "path":"folders/Objects/Props/Library.yy",
   },
   "parentObjectId":{
     "name":"obj_interactableProp",

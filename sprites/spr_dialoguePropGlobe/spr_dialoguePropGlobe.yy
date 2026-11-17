@@ -26,8 +26,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Dialogue Boxes",
-    "path":"folders/Sprites/Dialogue Boxes.yy",
+    "name":"Props",
+    "path":"folders/Sprites/Dialogue Boxes/Props.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

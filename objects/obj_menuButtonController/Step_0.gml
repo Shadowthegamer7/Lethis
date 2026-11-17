@@ -13,7 +13,7 @@ if keyboard_check_pressed(vk_up) && (pointer > 0)
 
 };
 
-if keyboard_check_pressed(vk_enter) && (pointer == 0)
+if keyboard_check_pressed(vk_enter) && (pointer == 0) && !audio_is_playing(snd_button)
 {
 	gotonextroom = 1
 	canmovebuttons = 0
@@ -23,11 +23,11 @@ if keyboard_check_pressed(vk_enter) && (pointer == 0)
 if (gotonextroom == 1) && !audio_is_playing(snd_button)
 {
 	instance_create_depth(x, y, -100000, obj_fade);
-	audio_sound_gain(mus_title, 0, 500);
+	audio_sound_gain(mus_library, 0, 500);
 
 };
 
-if (audio_sound_get_gain(mus_title) < 0.01)
+if (audio_sound_get_gain(mus_library) < 0.01)
 		{
 			room_goto(rm_intro_cutscene)	
 		};

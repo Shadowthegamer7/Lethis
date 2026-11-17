@@ -17,4 +17,4 @@ sprite[UP] = spr_hel_walk_up;
 sprite[LEFT] = spr_hel_walk_left;
 sprite[DOWN] = spr_hel_walk_down;
 
-face = DOWN;
+face = UP

@@ -1,0 +1,1 @@
+panelTalkButton = noone;

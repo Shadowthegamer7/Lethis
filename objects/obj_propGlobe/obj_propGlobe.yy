@@ -8,8 +8,8 @@
   "name":"obj_propGlobe",
   "overriddenProperties":[],
   "parent":{
-    "name":"Props",
-    "path":"folders/Objects/Props.yy",
+    "name":"Library",
+    "path":"folders/Objects/Props/Library.yy",
   },
   "parentObjectId":{
     "name":"obj_interactableProp",

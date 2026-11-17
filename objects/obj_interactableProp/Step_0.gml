@@ -1,5 +1,6 @@
 var _showTalkButton = false;
-if instance_exists(obj_hel) && !instance_exists(obj_dialogue)
+var _cooldownActive = current_time < global.dialogueCooldownUntil;
+if instance_exists(obj_hel) && !instance_exists(obj_dialogue) && !_cooldownActive
 {
 	var _nearestProp = instance_nearest(obj_hel.x, obj_hel.y, obj_interactableProp);
 	_showTalkButton = (id == _nearestProp) && distance_to_object(obj_hel) < 20;

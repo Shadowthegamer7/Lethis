@@ -6,8 +6,8 @@
   "name":"obj_dialoguePropGlobe",
   "overriddenProperties":[],
   "parent":{
-    "name":"GameDialogue",
-    "path":"folders/Objects/Dialogue/GameDialogue.yy",
+    "name":"Props",
+    "path":"folders/Objects/Dialogue/GameDialogue/Props.yy",
   },
   "parentObjectId":{
     "name":"obj_dialogue",

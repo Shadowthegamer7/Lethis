@@ -14,7 +14,7 @@ if (music_playing == 0) {
 	
 	switch (roomid) {
 		case 0:
-			playmusic(mus_castletown);
+			playmusic(noone);
 		break;
 	
 		case 1:
@@ -22,7 +22,7 @@ if (music_playing == 0) {
 		break;
 		
 		case 2:
-			playmusic(mus_title);
+			playmusic(mus_library);
 		break;
 	}
 		

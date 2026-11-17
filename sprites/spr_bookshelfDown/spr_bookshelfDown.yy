@@ -30,8 +30,8 @@
   "nineSlice":null,
   "origin":6,
   "parent":{
-    "name":"Props",
-    "path":"folders/Sprites/Props.yy",
+    "name":"Library",
+    "path":"folders/Sprites/Props/Library.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
